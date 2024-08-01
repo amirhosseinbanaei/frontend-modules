@@ -29,4 +29,3 @@ const ScrollAnimationWrapper: React.FC<ScrollAnimationWrapperProps> = ({
 };
 
 export default ScrollAnimationWrapper;
-
